@@ -31,6 +31,12 @@ I find getting to the root of problems and solving them really satisfying. I esp
 
 - I have a small api i initially built for it [here](https://github.com/Shulammite-Aso/Journaling-app-api), but it now needs more than i have here, so i'm starting to do more work on this too.
 
+## I'm available for Hire
+If you'd like a junior software engineer on your team, whose's eager to quicky pick up skills and adapt to your teams fine culture, i'd be happy if you ask to hear from me.
+Reach me on asoamarachi@gmail.com
+
+#### Cheers ✨
+
 <!--
 **Shulammite-Aso/Shulammite-Aso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
