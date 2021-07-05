@@ -29,10 +29,12 @@ I find getting to the root of problems and solving them really satisfying. I esp
 
 - I'm also actively working on a [journaling app](https://github.com/Shulammite-Aso/Journal-app-frontend) as a personal project.
 
-- I have a small api i initially built for it [here](https://github.com/Shulammite-Aso/Journaling-app-api), but it now needs more than i have here, so i'm starting to do more work on this too.
+- I have a small api i initially built for it [here](https://github.com/Shulammite-Aso/Journaling-app-api), but it now needs more than i have here, so i'm starting to do more work on this too, so that i can connect the frontend to it.
+
+- I also like contributing to open-source. I'm looking to start making more time for it. If you'd like to let me know about an open source project being actively developed and is using my above tech stack, please do send me link to it. I have dropped my email in the next subheading.
 
 ## I'm available for Hire
-If you'd like a junior software engineer on your team, whose's eager to quicky pick up skills and adapt to your teams fine culture, i'd be happy if you ask to hear from me.
+If you'd like a junior software engineer on your team, whose's eager to quicky pick up skills and adapt to your teams fine culture, i'd be elated if you ask to hear from me.
 Reach me on asoamarachi@gmail.com
 
 #### Cheers ✨
