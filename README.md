@@ -19,6 +19,7 @@ I find getting to the root of problems and solving them really satisfying. I esp
 - MongoDB
 - Docker
 - Linux/shell
+- GCP
 - Material UI
 - Tailwind
 - React-bootstrap
