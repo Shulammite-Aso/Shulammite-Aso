@@ -25,7 +25,7 @@ I find getting to the root of problems and solving them really satisfying. I esp
 - Bootstrap
 
 ### More about me
-- I currently work partime on the frontend at [Mizala](https://mizala.co/)  adn [Bleautech](https://www.bleautech.org/)
+- I currently work partime on the frontend at [Mizala](https://mizala.co/)  and [Bleautech](https://www.bleautech.org/)
 
 - I'm also actively working on a [journaling app](https://github.com/Shulammite-Aso/Journal-app-frontend) as a personal project.
 
