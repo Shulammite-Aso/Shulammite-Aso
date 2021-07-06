@@ -34,7 +34,7 @@ I find getting to the root of problems and solving them really satisfying. I esp
 - I also like contributing to open-source. I'm looking to start making more time for it. If you'd like to let me know about an open source project being actively developed and is using my above tech stack, please do send me link to it. I have dropped my email in the next subheading.
 
 ## I'm available for Hire
-If you'd like a junior software engineer on your team, whose's eager to quicky pick up skills and adapt to your teams fine culture, i'd be elated if you ask to hear from me.
+If you'd like a junior software engineer on your team, whose's eager to quicky pick up skills and adapt to your teams fine culture, i'd be elated if you ask to hear from me. I'm on GMT+1 timezone.
 Reach me on asoamarachi@gmail.com
 
 #### Cheers ✨
