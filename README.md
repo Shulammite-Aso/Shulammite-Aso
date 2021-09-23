@@ -10,7 +10,8 @@ I find getting to the root of problems and working out solutions for them really
  ## My current tech stack include:
 - HTML/CSS 
 - JavaScript 
-- Typescript 
+- Typescript
+- Golang (Learning 🎉)
 - React
 - Redux
 - JQuery
