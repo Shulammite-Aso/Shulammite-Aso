@@ -11,7 +11,7 @@ I find getting to the root of problems and working out solutions for them really
 - HTML/CSS 
 - JavaScript 
 - Typescript
-- Golang (Learning 🎉)
+- Golang 
 - React
 - Redux
 - JQuery
