@@ -2,7 +2,7 @@
 
 #### Happy to see you here!
 
-I'm a junior fullstack developer.  I currently have more experience on the frontend, however i have good
+I'm a fullstack developer who currently have more experience on the frontend, but good
 knowledge of backend development and workable knowledge of clound computing.
 
 I find getting to the root of problems and working out solutions for them really satisfying. Honestly, only a few things are as satisfying as when you can finally tell why something is not working as it should, and then fixing it.
