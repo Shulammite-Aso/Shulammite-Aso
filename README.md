@@ -1,43 +1,24 @@
 ### Hi there, I'm Amarachi Shulammite Aso 👋
 
-#### Happy to see you here!
+#### Welcome to my profile!
 
-I'm a fullstack developer who currently have more experience on the frontend, but good
-knowledge of backend development and workable knowledge of clound computing.
-
-I find getting to the root of problems and working out solutions for them really satisfying. Honestly, only a few things are as satisfying as when you can finally tell why something is not working as it should, and then fixing it.
-
- ## My current tech stack include:
-- HTML/CSS 
-- JavaScript 
-- Typescript
-- Golang 
-- React
-- Redux
-- JQuery
-- NodeJS
-- Express
+I’m a software engineer. A diligent one. I’m transitioning from the frontend to the backend side of engineering. My current programming language of interest is Golang. In addition to it, I’m skilled in JavaScript, nodejs, and Typescript. Other technologies that I work with include: 
 - MongoDB
+- Postgres
 - Docker
 - Linux/shell
+- Terraform
+- Kubernetes 
 - GCP
-- Material UI
-- Tailwind
-- React-bootstrap
-- Bootstrap
 
-### More about my dev Life
-- I currently work as a consulting frontend engineer at [sterling bank](https://sterling.ng/) building the new [altmall](https://altmall.ng/)
+## My Latest projects:
+---
 
-- On the side, I do backend stuff at [Bleautech](https://www.bleautech.org/)
+## Open source
+---
+## Open to work.
 
-- I'm using my free time to work on a personal project: [Journaling-app-api](https://github.com/Shulammite-Aso/Journaling-app-api), an api for a journaling app i had casually worked on [here](https://github.com/Shulammite-Aso/Journal-app-frontend), all for for the purpose of picking up some skill or the other.
-
-- I also like contributing to open-source. I'm looking to start making more time for it. If you'd like to let me know about an open source project being actively developed and is using my above tech stack, please do send me link to it. I have dropped my email in the next subheading.
-
-## I'm available for Hire
-If you'd like a junior software engineer on your team, whose's enthusiastic about what they do, a lifelong learner and earger to adapt to your teams fine culture, i think i'd be a great fit, and would be elated to hear from you. I'm on GMT+1 timezone.
-Reach me on asoamarachi@gmail.com
+I’m currently open to work as a backend software engineer. I’m also willing to work as a fullstack software engineer where backend is the primary focus. On the frontend i have worked extensively with React, React/Typescript, Redux.
 
 #### Cheers ✨
 
