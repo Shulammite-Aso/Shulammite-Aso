@@ -2,23 +2,27 @@
 
 #### Welcome to my profile!
 
-I’m a software engineer. A diligent one. I’m transitioning from the frontend to the backend side of engineering. My current programming language of interest is Golang. In addition to it, I’m skilled in JavaScript, nodejs, and Typescript. Other technologies that I work with include: 
-- MongoDB
-- Postgres
+I’m a software engineer, a diligent one. I have just transitioned to the backend side of engineering after working professionally on the frontend for a while. My current programming language of interest is Golang. In addition to it, I’m skilled in JavaScript, nodejs, and Typescript. Other technologies that I work with include: 
+- Kubernetes
 - Docker
 - Linux/shell
-- Terraform
-- Kubernetes 
+- Postgres
+- MongoDB
+- Docker
+- Terraform 
 - GCP
 
 ## My Latest projects:
----
+- [FILEBOX](https://github.com/Shulammite-Aso/filebox)
+- [PIXELART](https://github.com/Shulammite-Aso/pixelArt)
+- [GREPCLONE](https://github.com/Shulammite-Aso/grepclone)
 
 ## Open source
 ---
 ## Open to work.
 
-I’m currently open to work as a backend software engineer. I’m also willing to work as a fullstack software engineer where backend is the primary focus. On the frontend i have worked extensively with React, React/Typescript, Redux.
+I’m currently open to work as a backend software engineer. I’m also willing to work as a fullstack software engineer where backend is the primary focus. On the frontend i have worked extensively with React, React/Typescript, and Redux. Working with a team building developer tools will interest me the most. 
+Please email me at asoamarachi@gmail.com if you think i might be a good fit for a job you know about.
 
 #### Cheers ✨
 
