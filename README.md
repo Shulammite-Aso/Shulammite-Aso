@@ -2,16 +2,20 @@
 
 #### Welcome to my profile!
 
-I’m a software engineer, a diligent one. I have just transitioned to the backend side of engineering after working professionally on the frontend for a while. My current programming language of interest is Golang. In addition to it, I’m skilled in JavaScript, nodejs, and Typescript. Other technologies that I work with include: 
-- Kubernetes
-- Docker
-- Linux/shell
-- gRPC
-- Postgres
-- MongoDB
-- Docker
-- Terraform 
-- GCP
+I'm a software engineer who has built micro-services in Golang and other languages such as Nodejs and Nodejs/Typescript and deployed them in Kubernetes clusters. I have just transitioned to the backend and cloud platform side of engineering after working professionally on the frontend for a while. Currently, I work primarily with Golang. In addition to it, I’m skilled in JavaScript, Node.js, and Typescript. Other technologies that I work with include: 
+ - Docker 
+ - Kubernetes 
+ - Linux/shell
+ - GCP
+ - Terraform
+ - gRPC
+ - MongoDB
+ - Postgresql
+ - MySQL
+ - Redis
+ - Reactjs and its ecosystem
+
+I have a strong foundation that enables me to understand engineering problems, design and build solutions for them, and quickly pick up new skills on the job.
 
 ## My Latest projects:
 - [FILEBOX](https://github.com/Shulammite-Aso/filebox)
